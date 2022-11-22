@@ -9,7 +9,7 @@ a=Convert.ToInt32(Console.ReadLine());
 catch(Exception)
 {
     Console.WriteLine();
-    Console.WriteLine("Ошибка: Не корректное значение");
+    Console.WriteLine("error: incorrect value");
     Environment.Exit(0);
 }
 a=a/10;

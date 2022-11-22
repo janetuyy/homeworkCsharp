@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, tell me ur coordinates now!");
 int x1 = int.Parse(Console.ReadLine());
 int y1 = int.Parse(Console.ReadLine());
 int z1 = int.Parse(Console.ReadLine());
